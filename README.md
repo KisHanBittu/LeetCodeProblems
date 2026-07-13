@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
