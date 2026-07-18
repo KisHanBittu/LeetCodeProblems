@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
