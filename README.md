@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
 | ------- |
@@ -72,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
