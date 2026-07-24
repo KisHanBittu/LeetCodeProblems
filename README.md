@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0328-odd-even-linked-list) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
