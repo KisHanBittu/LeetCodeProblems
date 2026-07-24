@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
