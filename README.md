@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1796-second-largest-digit-in-a-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
