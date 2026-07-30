@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
