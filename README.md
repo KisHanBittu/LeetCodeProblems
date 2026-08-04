@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
