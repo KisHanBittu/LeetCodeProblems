@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0328-odd-even-linked-list) |
 ## Math
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
