@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 | [3731-find-missing-elements](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3731-find-missing-elements) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0567-permutation-in-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
