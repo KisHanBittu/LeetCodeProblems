@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
 | [1796-second-largest-digit-in-a-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -145,10 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -186,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
