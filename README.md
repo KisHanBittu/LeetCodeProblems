@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
