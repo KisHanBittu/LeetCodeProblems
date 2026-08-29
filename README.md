@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
 | [1796-second-largest-digit-in-a-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
