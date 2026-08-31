@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
