@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3903-smallest-stable-index-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
