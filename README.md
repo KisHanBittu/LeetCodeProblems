@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3731-find-missing-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1539-kth-missing-positive-number) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Matrix
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
