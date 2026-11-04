@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2540-minimum-common-value](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1539-kth-missing-positive-number) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2540-minimum-common-value](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3903-smallest-stable-index-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/0860-lemonade-change) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KisHanBittu/LeetCodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
